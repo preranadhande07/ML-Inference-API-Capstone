@@ -1,0 +1,13 @@
+customer_id,tenure_months,support_tickets,monthly_spend_inr,last_login_days,plan_type,churned
+C001,2,5,499,20,Basic,1
+C002,24,1,1499,2,Premium,0
+C003,6,4,799,15,Basic,1
+C004,36,0,1999,1,Premium,0
+C005,12,2,999,5,Standard,0
+C006,3,6,599,25,Basic,1
+C007,18,1,1299,3,Standard,0
+C008,8,5,699,18,Basic,1
+C009,30,0,1799,2,Premium,0
+C010,5,3,899,12,Standard,1
+C011,20,1,1399,4,Standard,0
+C012,4,7,499,30,Basic,1
